@@ -5,7 +5,7 @@ public class reverse_no {
         int n=1234,ld;
         while(n>0)
         {
-            // changes done
+            // changes done finally
             ld=n%10;
             System.out.print(ld);
             n=n/10;
