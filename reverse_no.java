@@ -6,6 +6,7 @@ public class reverse_no {
         while(n>0)
         {
             // changes done final
+            // kuch karne ko nhi hai ab
             ld=n%10;
             System.out.print(ld);
             n=n/10;
